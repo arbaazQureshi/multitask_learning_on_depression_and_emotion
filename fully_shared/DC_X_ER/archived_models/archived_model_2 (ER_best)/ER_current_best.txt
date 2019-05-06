@@ -1,0 +1,3 @@
+categorical_crossentropy: 	1.4630972761096377
+accuracy: 	0.48484848484848486
+ER_MSE: 	6.9774861145019536
